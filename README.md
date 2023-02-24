@@ -12,3 +12,11 @@ The majority of Sri Lanka's medications were formerly imported, but with the cou
 In some areas patients are being turned away from hospitals and clinics due to the severe medicine shortage, which prevents them from receiving the necessary care. Most of them have chronic, incapacitating illnesses like diabetes, asthma, heart issues, and epilepsy. Every day they go without taking their prescription raises the possibility of complications, which could cause their diseases to significantly worsen or perhaps end fatally. Together with basic needed medications like Paracetamol, antibiotics, and pediatrics formulations, vital medications for the treatment of malaria are also in extremely short supply.
 
 Even though the current situation within the healthcare industry is worse like this, some pharmacies and hospitals are available with medicines in some amounts. As a software engineering undergraduate, you have to create a platform to connect people with those pharmacies and hospitals. In the platform that you are creating, users should be able to search for a medicine and check whether the availability of that medicine in the registered pharmacies and hospitals.
+
+
+## Our Team Details
+
+* Team ID : 44
+* Team Name : Cobra Tech
+* Team University : Informatics Institute of Technology (IIT Campus)
+* Team Members : 
