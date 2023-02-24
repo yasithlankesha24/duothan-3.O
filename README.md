@@ -20,4 +20,8 @@ Even though the current situation within the healthcare industry is worse like t
 * Team Name : Cobra Tech
 * Team University : Informatics Institute of Technology (IIT Campus)
 * Team Members : 
+        * Yasith Lankesha : https://github.com/yasithlankesha24
+        * Dulaksha Rajasekara : https://github.com/DKRajasekera
+        * Thimali Waduge : https://github.com/TSHA20
+        * Ishani Arunika : https://github.com/IshaniArunika
 * Repositary Link : https://github.com/yasithlankesha24/duothan-3.O
